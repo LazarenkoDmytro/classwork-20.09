@@ -1,0 +1,27 @@
+h1 {
+    color:cornflowerblue;
+    text-align: center;
+    font-weight: bolder;
+}
+
+html {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+img {
+    width: 100%;
+}
+
+ol {
+    color: crimson;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+body {
+    background-color: bisque;
+}
